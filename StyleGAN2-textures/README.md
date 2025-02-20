@@ -3,7 +3,6 @@
 This repository contains a StyleGAN2-ADA model fine-tuned to generate synthetic crack images of class 4.  
 This project is part of MIIRAG-Task-2 and aims to improve crack detection datasets by augmenting real data with synthetic cracks.
 
----
 
 ## Based On
 
@@ -14,9 +13,8 @@ This project is based on two repositories:
 
 Modifications were made to adapt these models for crack image generation.
 
----
 
-    ## Key Modifications
+## Key Modifications
 
     ### Model
     - Fine-tuned a StyleGAN2 model pretrained on textures to generate synthetic crack images.
@@ -32,14 +30,12 @@ Modifications were made to adapt these models for crack image generation.
 - The model was trained on class 4 of the EDM600 crack image dataset, which consists of crack images divided into 8 classes (`class_0` to `class_7`).
 - Images were preprocessed and stored as TFRecords for efficient training.
 
----
 
 ## Model Output & Checkpoints
 
 - Training snapshots are saved every 5 ticks (`--snap=5`).
 - Final trained model weights are available for inference and further fine-tuning.
 
----
 
 ## How to Use This Repository
 
