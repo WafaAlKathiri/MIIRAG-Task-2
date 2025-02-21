@@ -12,7 +12,7 @@ The following key modifications were made to the original repository:
 
 *   **Dataset Adaptation:**
     *   The data loading pipeline was modified to work with the EDM600 crack image dataset, which is structured into different classes.
-    *   Image transformations were applied to resize images to 64x64 pixels and normalize pixel values to the range [-1, 1]. A grayscale conversion step was also added.
+    *   Image transformations were applied to resize images to 64x64 pixels and normalize pixel values to the range [-1, 1].
 *   **Model Architecture:**
     *   The original generator and discriminator architectures were adjusted to better suit the characteristics of the crack image dataset. The channel configuration and layer sizes were modified to enhance the quality of generated images.
     *   The latent dimension was set to 100.
