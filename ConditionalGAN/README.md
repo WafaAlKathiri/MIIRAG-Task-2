@@ -31,6 +31,7 @@ The following key modifications were made to the original repository:
 ## Dataset
 
 The model was trained on a cleaned version of the EDM600 crack image dataset, which consists of crack images divided into 8 classes (class\_0 to class\_7). A subset of the dataset, focusing on class 4, was used to train the model. The dataset is structured into training, testing, and validation sets and stored in ImageFolder format. Dataset Link: https://github.com/WafaAlKathiri/MIIRAG-Task-2/tree/main/CleanDATA
+Dataset Kaggle Link: https://kaggle.com/datasets/4147c8a76dc24e8fdb1d6548997976dd719479bc7686a6364bf79b5820a5fb41
 
 ## How To use it:
 1. Upload your dataset.
