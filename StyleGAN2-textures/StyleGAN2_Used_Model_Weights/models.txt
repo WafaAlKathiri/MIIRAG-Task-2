@@ -1,0 +1,4 @@
+Due to GitHub's file size limits, the model weights and textures are stored on Google Drive.
+
+Link:
+https://drive.google.com/drive/folders/18qPJCrsmHdcIDGesl08Ac3qU2IW-7FtC?usp=sharing
