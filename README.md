@@ -1,1 +1,3 @@
 # MIIRAG-Task-2
+
+Cracks in road surfaces may seem minor, but if left undetected, they can lead to costly repairs and serious safety hazards. Traditional crack inspection methods are slow, labor-intensive, and prone to errors, while existing automated systems struggle with inconsistent data and complex crack patterns. To bridge this gap, our project leverages Generative AI to create synthetic yet realistic crack images, improving dataset quality for Instance Segmentation—a hybrid approach combining Object Detection and Semantic Segmentation. By enriching training data, we aim to solve data imbalance issues in exsisting road crack image datasets, ensuring more precise and scalable crack detection for smarter infrastructure maintenance.
