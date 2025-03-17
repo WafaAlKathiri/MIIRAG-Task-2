@@ -5,6 +5,7 @@ Cracks in road surfaces may seem minor, but if left undetected, they can lead to
 1.	Data collection and Cleaning
    
 This project leveraged three datasets for road crack detection: EdmCrack600, China-Data (RDD2022-China subset), and the Road Crack Detection dataset from Roboflow Universe.
+
 •	EdmCrack600: (600 images) Accessible via direct download, this Canadian dataset provides high-resolution images with pixel-level annotations (boxes and segmentation). Split: 480 train, 60 valid, 60 test. All images from this dataset were used. 
 
 •	China-Data (RDD2022-China subset): (2649 images) Publicly available, this subset contains Chinese road images with annotations for diverse crack types. Selected for its variety, data points, and box ground truth to enhance results. Split: 1900 train, 527 valid, 266 test. Some images from this dataset were used to improve training of minority classes.
