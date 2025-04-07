@@ -1,6 +1,6 @@
 # Road Crack Reattachment Pipeline
 
-The file reattachment1 provides a full pipeline to reattach synthetic crack images onto real road backgrounds from the dataset EdmCrack600 using a blend of image similarity, enhancement, and Poisson blending techniques. 
+The file reattachment1.py provides a full pipeline to reattach synthetic crack images onto real road backgrounds from the dataset EdmCrack600 using a blend of image similarity, enhancement, and Poisson blending techniques. 
 
 ---
 
